@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Greege
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Greege
+- 🖥️ I’m a Comp Sci student that's interested in learning more about computer science and software engineering. I'm building projects that will help me to do that.
+- 👨‍💻 I’m currently learning: Javascript/React.js
+- 📫 Reach me at: george90701@gmail.com
 
-<!---
-Greege/Greege is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
